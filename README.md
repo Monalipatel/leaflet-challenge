@@ -6,4 +6,9 @@ Web application is deployed at the following link
 
 https://monalipatel.github.io/leaflet-challenge/.
 
+
+ ![Satellite.png](Images/Satellite.png)
+ 
  ![Grayscale.png](Images/Grayscale.png)
+ 
+ ![Outdoors.png](Images/Outdoors.png)
