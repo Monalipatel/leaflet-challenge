@@ -5,3 +5,5 @@ In this project, I have visualized earthquakes occurring globally using a live A
 Web application is deployed at the following link
 
 https://monalipatel.github.io/leaflet-challenge/.
+
+ ![Grayscale.png](Images/Grayscale.png)
